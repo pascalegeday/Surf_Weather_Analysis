@@ -1,4 +1,4 @@
-# Surf_Weather_Analysis
+# Surf Shop - Weather Analysis
 Analysis on Oahu's weather to determine the success of starting a small business on one of Oahu's beaches. 
 Apart from analyzing key aspects of a surf shop opening in Oahu's beaches, shop investors request more information about temperature trends before agreeing to invest in the surf shop. Specifically, they want temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
 
